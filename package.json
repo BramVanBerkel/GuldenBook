@@ -27,7 +27,7 @@
         "chartjs-adapter-moment": "^1.0.0",
         "chroma-js": "^2.4.2",
         "lightweight-charts": "^3.7.0",
-        "luxon": "^2.3.1",
+        "luxon": "^2.5.2",
         "moment": "^2.29.4"
     }
 }
